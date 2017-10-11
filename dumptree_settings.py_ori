@@ -1,0 +1,12 @@
+
+source_db = 'chimera'
+source_db_host = 'dcache-dir-xfel01'
+source_db_user = 'postgres'
+source_db_pass = ''
+source_inode = '000097C049DE5C4747EEA485E437627B2D27'
+
+dest_db = 'c3'
+dest_db_host = 'dcache-dir-xfel01'
+dest_db_user = 'postgres'
+dest_db_pass = ''
+dest_inode = '00007BF09A4E00A34074A36712C18FC85B49'
